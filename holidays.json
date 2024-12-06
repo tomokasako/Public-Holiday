@@ -1,0 +1,19 @@
+{
+  "holidays": [
+    {
+      "title": "New Year's Day",
+      "date": "2024-01-01",
+      "description": "Celebrating the start of the new year."
+    },
+    {
+      "title": "Chinese New Year",
+      "date": "2024-02-10",
+      "description": "Spring Festival."
+    },
+    {
+      "title": "Diwali",
+      "date": "2024-11-01",
+      "description": "Festival of lights."
+    }
+  ]
+}
